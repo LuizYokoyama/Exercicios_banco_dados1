@@ -4,9 +4,7 @@ Exercícios do banco de dados PostgreSQL resolvidos na disciplina de Banco de Da
 
 Os scripts SQL de criação do banco de dados estão no arquivo create.sql. Já os scripts de inserção dos dados estão nos arquivos insert_*.sql. Por fim, os scripts das querys dos exercícios E1 a E10 estão, respectivamente, nos arquivos E1.sql a E10.sql.
 
-
-
-DER:
+O Dicionário de Dados se encontra no arquivo Dicionario_de_dados_Endereco.pdf. Já o do Diagrama Entidade-Relacionamento (DER) é mostrado na figura abaixo:
 
 ![image](https://user-images.githubusercontent.com/95327592/144662060-cb48c57b-d6af-4592-9f78-c31f0e7aea45.png)
 
