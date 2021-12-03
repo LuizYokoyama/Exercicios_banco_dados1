@@ -2,6 +2,8 @@
 
 Exercícios do banco de dados PostgreSQL resolvidos na disciplina de Banco de Dados do meu curso de Engenharia de Computação.
 
+Os scripts SQL de criação do banco de dados estão no arquivo create.sql. Já os scripts de inserção dos dados estão nos arquivos insert_*.sql. Por fim, os scripts das querys dos exercícios E1 a E10 estão, respectivamente, nos arquivos E1.sql a E10.sql.
+
 E1. Listar o nome da UF, a sigla da UF e o nome dos seus municípios ordenado de forma
 ascendente pelo nome da UF.
 
