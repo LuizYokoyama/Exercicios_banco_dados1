@@ -1,4 +1,4 @@
-# Exercicios_banco_dados1
+# Exercicios de banco dados
 
 Exercícios do banco de dados PostgreSQL resolvidos na disciplina de Banco de Dados do meu curso de Engenharia de Computação.
 
